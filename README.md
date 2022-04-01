@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working in JS-World. 😉
+- 🔭 I’m currently working in JS-World & Go-World. 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source projects 🤝
-- 💬 Ask me anything [here](https://github.com/sankalp-ranade/sankalp-ranade/issues) related to <b>Javascript(React & Node), AWS, Alexa & Chatbot.</b>
+- 💬 Ask me anything [here](https://github.com/sankalp-ranade/sankalp-ranade/issues) related to <b>Javascript(React & Node) and backend engineering.</b>
 - 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Sankalp Ranade](mailto:ranadesankalp@gmail.com)
 
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[website]: https://sankalp-ranade.ml
 [linkedin]: https://linkedin.com/in/sankalp-ranade
 [Twitter]: https://twitter.com/sankalp_ranade
 [github]: https://github.com/sankalp-ranade
